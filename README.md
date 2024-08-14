@@ -1,13 +1,16 @@
 # Crowdfunding_ETL
 Project 2
 
+![image](https://github.com/user-attachments/assets/27562402-977b-4136-88fa-38b319baa0c0)
+
 # Background
 This project builds an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and Python dictionary methods or regular expressions. The goal is to extract and transform the data, followed by creating four CSV files. These CSV files will then be used to generate an Entity-Relationship Diagram (ERD) and a table schema. Finally, the transformed data will be uploaded into a Postgres database.
 
 # Technologies Used
-- Python
-- Pandas
-- Postgres SQL
+ - Python
+ - Pandas
+ - Postgres SQL
+ - [QuickDBD](https://app.quickdatabasediagrams.com/#/) 
 
 # Project Steps
 1. Extract and Transform Data:
